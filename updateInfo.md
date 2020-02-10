@@ -1,0 +1,3 @@
+- Supports dark mode
+- Enhanced for iOS 13
+- Improved quick look
