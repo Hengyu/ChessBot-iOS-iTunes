@@ -1,4 +1,1 @@
-- Supports for multi window (works on iPadOS)
-- Supports for keyboard shortcuts (works on iPadOS)
-- Supports for dark mode
-- Bug fixes and performance improvements
+- Stability improved
