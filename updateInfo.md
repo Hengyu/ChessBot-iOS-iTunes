@@ -1,3 +1,2 @@
-ChessBot is on Mac App Store and Apple TV App Store, download and enjoy!
-
-- Stability improved
+- Enhanced for iOS 14
+- Integrate neural network for engine analysis
