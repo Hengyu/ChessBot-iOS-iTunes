@@ -1,5 +1,1 @@
-- Support for localizations: German, Simplified Chinese and Traditional Chinese
-- Refine thumbnail extension
-- Update the neural network
-- Enhance for iPhone 12 series
-- Bug fixes and stability improved
+- Stability improved
