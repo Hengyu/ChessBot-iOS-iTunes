@@ -1,1 +1,1 @@
-- Weaker computer strength for lower difficulty
+- Stability improved
