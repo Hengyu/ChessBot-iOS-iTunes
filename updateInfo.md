@@ -1,1 +1,2 @@
-- Stability improved
+- Add a new board style for accessibility (Thanks hongru.h)
+- Support for alternative app icon
