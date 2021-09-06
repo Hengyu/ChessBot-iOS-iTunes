@@ -1,2 +1,2 @@
-- Add a new board style for accessibility (Thanks hongru.h)
-- Support for alternative app icon
+- Update the neural network
+- Bug fixes and stability improved
