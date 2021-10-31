@@ -1,2 +1,2 @@
-- Update the neural network
+- Enhanced for iOS 15 and iPhone 13 series
 - Bug fixes and stability improved
