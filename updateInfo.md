@@ -1,2 +1,5 @@
-- Enhanced for iOS 15 and iPhone 13 series
+- Support for iPadOS pointer
+- Support for hardware keyboard
+- Enhance app accessibility
+- Enable shake to undo
 - Bug fixes and stability improved
