@@ -1,5 +1,1 @@
-- Support for iPadOS pointer
-- Support for hardware keyboard
-- Enhance app accessibility
-- Enable shake to undo
 - Bug fixes and stability improved
