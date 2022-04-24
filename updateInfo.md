@@ -1,1 +1,1 @@
-- Bug fixes and stability improved
+- Add feedback page
