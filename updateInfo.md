@@ -1,1 +1,1 @@
-- Enhanced for iOS 16 and iPhone 14 series
+- Bug fixes and stability improved
