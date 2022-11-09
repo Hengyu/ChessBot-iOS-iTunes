@@ -1,1 +1,3 @@
+- Support for PGN file Drag & Drop
+- Support for game preview exporting (iOS 16 required)
 - Bug fixes and stability improved
