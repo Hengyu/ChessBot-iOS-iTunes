@@ -1,1 +1,4 @@
-- Bug fixes and stability improved
+- Update chess engine
+- Refine settings page
+- Show arrow for move
+- Stability improved
