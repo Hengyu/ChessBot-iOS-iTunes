@@ -1,4 +1,4 @@
-- Update chess engine
-- Refine settings page
-- Show arrow for move
-- Stability improved
+- Introducing the Guidebook: Explore a plethora of chess openings to sharpen your skills.
+- Fine-tuning localizations, including Traditional Chinese and Russian.
+- Improving the overall user interface design for a more cohesive experience.
+- Bug fixes and enhanced stability.
