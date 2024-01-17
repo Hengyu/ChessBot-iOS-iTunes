@@ -1,4 +1,6 @@
-- Introducing the Guidebook: Explore a plethora of chess openings to sharpen your skills.
-- Fine-tuning localizations, including Traditional Chinese and Russian.
-- Improving the overall user interface design for a more cohesive experience.
-- Bug fixes and enhanced stability.
+- Introducing chess puzzles, we have prepared Knight Endgame challenges in the first release
+- Introducing lessons, you can learn skills on how to play the chess endgame
+- We redesigned the settings page for simplicity and convenience
+- Added sharing for chess openings, with a beautifully represented chess board and translated materials
+- Fixed a few bugs, including the wrong result prompt when a chess game ends
+- Updated terms of use and privacy policy
