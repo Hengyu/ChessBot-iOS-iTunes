@@ -1,6 +1,4 @@
-- Introducing chess puzzles, we have prepared Knight Endgame challenges in the first release
-- Introducing lessons, you can learn skills on how to play the chess endgame
-- We redesigned the settings page for simplicity and convenience
-- Added sharing for chess openings, with a beautifully represented chess board and translated materials
-- Fixed a few bugs, including the wrong result prompt when a chess game ends
-- Updated terms of use and privacy policy
+- New monthly / yearly subscription
+- Improve chess gallery scrolling experience
+- Fix issue that chess move sound not playing
+- Fix issue that some PGN cannot import
