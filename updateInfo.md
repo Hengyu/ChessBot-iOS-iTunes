@@ -1,4 +1,3 @@
-- New monthly / yearly subscription
-- Improve chess gallery scrolling experience
-- Fix issue that chess move sound not playing
-- Fix issue that some PGN cannot import
+- Optimize the first-time user experience
+- Fix the issue where the main menu bar title is empty
+- Fix the issue where the chess game file name does not match
